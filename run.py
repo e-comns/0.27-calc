@@ -21,3 +21,4 @@ while True:
        	    text_file.write(str(amount_due) + "\n")
        	    text_file.close()
     continue 
+# NO changes made!
